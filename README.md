@@ -1,4 +1,14 @@
-# React + Vite
+# Hover Magic
+
+# Event Handling in React
+
+
+- React allows handling user events such as clicks, mouse over, and mouse out using event attributes in JSX.
+- State management with useState is essential for dynamic UI updates based on user interactions.
+- Inline styling and conditional rendering enable real-time visual feedback in response to events.
+- Event handlers like onClick, onMouseOver, and onMouseOut can be used to trigger custom logic and UI changes.
+
+
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
